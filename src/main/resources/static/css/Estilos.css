@@ -39,3 +39,27 @@ footer{
     color:white;
     
 }
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0 40px;
+    
+    
+    
+}
+
+.nav{
+   display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+   
+}
+
+.nav-link{
+  color: navy;
+  text-decoration: activeborder;
+   
+}
+
+
